@@ -1,0 +1,43 @@
+canSpawn = true;
+objectNum = 0;
+
+
+
+
+
+
+
+//fix pickup spawn once picked up they no longer spawn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
